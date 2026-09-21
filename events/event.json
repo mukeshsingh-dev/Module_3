@@ -1,5 +1,0 @@
-{
-  "requestContext": {"authorizer": {"claims": {"sub": "demo-user"}}},
-  "pathParameters": {"orderId": "demo-order"},
-  "body": "{\"orderId\": \"demo-order\", \"status\": \"PLACED\"}"
-}
